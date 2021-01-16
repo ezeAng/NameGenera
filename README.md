@@ -1,6 +1,8 @@
 # NameGenera
 A quick less-than-an-hour for-fun project done up while taking up a web-development course.
 
+Kind of wonky but works.
+
 Type in your non-English name and have an English name generated for you.
 
 # Setup:
@@ -27,4 +29,5 @@ https://morning-tundra-80914.herokuapp.com/
   *Use of external API for name generation
   
   
-
+# Video Summary 
+> Found under project folder
